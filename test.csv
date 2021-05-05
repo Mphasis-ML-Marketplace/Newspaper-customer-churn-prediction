@@ -1,0 +1,7 @@
+HH Income,Home Ownership,Ethnicity,dummy for Children,Year Of Residence,Age range,Language,State,City,County,Zip Code,weekly fee,Deliveryperiod,Nielsen Prizm,reward program,Source Channel
+"$125,000 - $149,999",OWNER,English,N,23,70-74,English,CA,LAGUNA NIGUEL,ORANGE,92677,$9.00 - $9.99,7DayOL,MW,1,Internet
+"$400,000 - $499,999",OWNER,English,Y,16,50-54,English,CA,BUENA PARK,ORANGE,90621,$2.00 - $2.99,Thu-Sun,FW,0,TeleIn
+"$150,000 - $174,999",OWNER,English,N,11,65-69,English,CA,IRVINE,ORANGE,92603,$4.00 - $4.99,7Day,YW,0,CustCall
+"$200,000 - $249,999",OWNER,unknown,N,1,25-29,,CA,LADERA RANCH,ORANGE,92694,$1.00 - $1.99,SunOnly,FW,0,TeleIn
+"Under $20,000",RENTER,English,N,7,25-29,English,CA,IRVINE,ORANGE,92614,$2.00 - $2.99,7Day,YM,0,TeleIn
+"$  80,000 - $89,999",OWNER,Italian,N,7,60-64,English,CA,ALISO VIEJO,ORANGE,92656,$0.51 - $0.99,7Day,YM,0,RetenIn
