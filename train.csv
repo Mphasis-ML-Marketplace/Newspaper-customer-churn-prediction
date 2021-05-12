@@ -1,0 +1,40 @@
+HH Income,Home Ownership,Ethnicity,dummy for Children,Year Of Residence,Age range,Language,State,City,County,Zip Code,weekly fee,Deliveryperiod,Nielsen Prizm,reward program,Source Channel,Churn
+"$  30,000 - $39,999",RENTER,German,N,1,25-29,German,CA,LONG BEACH,LOS ANGELES,90802,$7.00 - $7.99,7Day,FM,0,CircAdm,NO
+"$500,000 Plus",OWNER,unknown,Y,14,50-54,,CA,NEWPORT COAST,ORANGE,92657,$0.01 - $0.50,SunOnly,MW,0,Partner,YES
+"$100,000 - $124,999",OWNER,Italian,Y,7,45-49,English,CA,IRVINE,ORANGE,92604,$0.01 - $0.50,SunOnly,MW,0,Partner,YES
+"$200,000 - $249,999",OWNER,English,N,23,55-59,English,CA,LAGUNA NIGUEL,ORANGE,92677,$1.00 - $1.99,SunOnly,MW,1,Internet,NO
+"$  50,000 - $59,999",OWNER,Italian,N,23,60-64,English,CA,RANCHO SANTA MARGARITA,ORANGE,92688,$8.00 - $8.99,Thu-Sun,MM,0,Crew,YES
+"$500,000 Plus",OWNER,Scottish (Scotch),Y,10,45-49,English,CA,LADERA RANCH,ORANGE,92694,$0 - $0.01,SunOnly,FW,0,Partner,NO
+"$150,000 - $174,999",OWNER,English,N,4,75 years or more,English,CA,SAN CLEMENTE,ORANGE,92673,$2.00 - $2.99,SatSun,YW,0,Crew,NO
+"$400,000 - $499,999",OWNER,Hispanic,Y,22,45-49,English,CA,RANCHO SANTA MARGARITA,ORANGE,92688,$0.01 - $0.50,SunOnly,FW,0,Partner,NO
+"$175,000 - $199,999",OWNER,Chinese,N,2,45-49,English,CA,IRVINE,ORANGE,92620,$2.00 - $2.99,SunOnly,MW,0,Kiosk,NO
+"$  50,000 - $59,999",OWNER,Irish,N,6,65-69,English,CA,IRVINE,ORANGE,92612,$1.00 - $1.99,7Day,FM,1,SCinsert,YES
+"$125,000 - $149,999",OWNER,English,N,7,50-54,English,CA,LAGUNA NIGUEL,ORANGE,92677,$2.00 - $2.99,SunOnly,MM,0,TeleIn,NO
+"$500,000 Plus",OWNER,German,N,25,55-59,English,CA,LAGUNA NIGUEL,ORANGE,92677,$9.00 - $9.99,7Day,MW,0,CustCall,NO
+"$125,000 - $149,999",OWNER,English,N,23,70-74,English,CA,LAGUNA NIGUEL,ORANGE,92677,$9.00 - $9.99,7DayOL,MW,1,Internet,NO
+"$400,000 - $499,999",OWNER,English,Y,16,50-54,English,CA,BUENA PARK,ORANGE,90621,$2.00 - $2.99,Thu-Sun,FW,0,TeleIn,NO
+"$150,000 - $174,999",OWNER,English,N,11,65-69,English,CA,IRVINE,ORANGE,92603,$4.00 - $4.99,7Day,YW,0,CustCall,NO
+"$200,000 - $249,999",OWNER,unknown,N,1,25-29,,CA,LADERA RANCH,ORANGE,92694,$1.00 - $1.99,SunOnly,FW,0,TeleIn,NO
+"Under $20,000",RENTER,English,N,7,25-29,English,CA,IRVINE,ORANGE,92614,$2.00 - $2.99,7Day,YM,0,TeleIn,NO
+"$  80,000 - $89,999",OWNER,Italian,N,7,60-64,English,CA,ALISO VIEJO,ORANGE,92656,$0.51 - $0.99,7Day,YM,0,RetenIn,NO
+"$400,000 - $499,999",OWNER,English,Y,12,40-44,English,CA,LADERA RANCH,ORANGE,92694,$0.51 - $0.99,Thu-Sun,FW,0,DirectMl,NO
+"$200,000 - $249,999",OWNER,Irish,N,26,70-74,English,CA,ALISO VIEJO,ORANGE,92656,$0.01 - $0.50,SunOnly,YW,0,DirectMl,YES
+"$400,000 - $499,999",OWNER,Swedish,Y,20,45-49,English,CA,IRVINE,ORANGE,92606,$2.00 - $2.99,7Day,MW,0,Partner,NO
+"$175,000 - $199,999",RENTER,Italian,N,2,60-64,Italian,CA,LADERA RANCH,ORANGE,92694,$7.00 - $7.99,7Day,MM,0,TeleOut,NO
+"$150,000 - $174,999",RENTER,Scottish (Scotch),N,4,55-59,English,CA,LADERA RANCH,ORANGE,92694,$3.00 - $3.99,7Day,MM,0,CircAdm,NO
+"$  90,000 - $99,999",RENTER,English,N,4,75 years or more,English,CA,LADERA RANCH,ORANGE,92694,$0 - $0.01,SunOnly,MM,0,Partner,NO
+"$200,000 - $249,999",RENTER,Filipino (Philippine),N,1,40-44,English,CA,LADERA RANCH,ORANGE,92694,$2.00 - $2.99,SoooooS,MM,0,TeleOut,NO
+"$125,000 - $149,999",RENTER,Jewish,N,3,75 years or more,English,CA,LADERA RANCH,ORANGE,92694,$4.00 - $4.99,7Day,MM,0,CustCall,NO
+"$200,000 - $249,999",OWNER,Scottish (Scotch),N,10,70-74,English,CA,LADERA RANCH,ORANGE,92694,$5.00 - $5.99,7Day,MM,2,TeleIn,YES
+"$300,000 - $399,999",OWNER,Italian,Y,21,50-54,English,CA,RANCHO SANTA MARGARITA,ORANGE,92688,$6.00 - $6.99,7Day,FW,0,CustCall,NO
+"$  20,000 - $29,999",RENTER,Arab,N,6,24 years or less,English,CA,IRVINE,ORANGE,92620,$4.00 - $4.99,7Day,YM,0,Crew,NO
+"$300,000 - $399,999",OWNER,Jewish,Y,4,45-49,English,CA,LAGUNA NIGUEL,ORANGE,92677,$10.00 - $10.99,7Day,MW,0,SCinsert,YES
+"$500,000 Plus",OWNER,English,N,20,70-74,English,CA,NEWPORT COAST,ORANGE,92657,,7Day,MW,0,DirectMl,NO
+"$200,000 - $249,999",OWNER,German,N,15,40-44,English,CA,SAN CLEMENTE,ORANGE,92672,$1.00 - $1.99,SunOnly,YW,0,Partner,NO
+"Under $20,000",OWNER,Irish,N,17,65-69,English,CA,IRVINE,ORANGE,92617,$0 - $0.01,SunOnly,YM,0,Partner,NO
+"$150,000 - $174,999",OWNER,Japanese,Y,27,50-54,English,CA,LAGUNA NIGUEL,ORANGE,92677,$1.00 - $1.99,Thu-Sun,MW,0,DirectMl,NO
+"$100,000 - $124,999",OWNER,Chinese,N,30,75 years or more,English,CA,IRVINE,ORANGE,92604,$0.01 - $0.50,Thu-Sun,MW,0,Partner,NO
+"Under $20,000",RENTER,English,N,4,60-64,English,CA,IRVINE,ORANGE,92618,$3.00 - $3.99,oMTWTFo,,0,CustCall,NO
+"$150,000 - $174,999",OWNER,English,N,20,55-59,English,CA,IRVINE,ORANGE,92620,$8.00 - $8.99,7Day,MW,0,TeleIn,NO
+"$150,000 - $174,999",OWNER,Chinese,N,4,35-39,Chinese,CA,IRVINE,ORANGE,92606,$3.00 - $3.99,Thu-Sun,MW,0,Internet,NO
+"$100,000 - $124,999",OWNER,Irish,N,13,65-69,English,CA,LAGUNA WOODS,ORANGE,92637,$3.00 - $3.99,7Day,MM,0,CustCall,NO
